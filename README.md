@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 ----
 
 <div>
+
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ajhuly&show_icons=true&theme=tokyonight"/>
+
 </div>
 
 ----
@@ -36,6 +38,8 @@ Here are some ideas to get you started:
 </a>
 
 </div>
+
+----
 
 ## Linguagens
 
@@ -57,4 +61,7 @@ Here are some ideas to get you started:
 
 
 </div>
+
+----
+
 
