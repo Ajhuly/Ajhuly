@@ -1,6 +1,6 @@
-### 👋 Olá!
-#### Me chamo Juliana :nerd_face: :brain:
-#### Sou entusiasta em TI e venho me aprofundando cada vez mais em Git e GitHub dentre outras da área da tecnologia. :computer:
+### 👋 _Olá!_
+### _Me chamo Juliana_ :nerd_face: :brain:
+### _Sou entusiasta em TI e venho me aprofundando cada vez mais em Git e GitHub dentre outras da área da tecnologia._ :computer:
 
 <!--
 **Ajhuly/Ajhuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
