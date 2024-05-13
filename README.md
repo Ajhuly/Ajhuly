@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 ### Contato
 
-----
-
 <div>
 
 <a href="www.linkedin.com/in/juliana-r-silvestre-esposti">
@@ -44,8 +42,6 @@ Here are some ideas to get you started:
 ----
 
 ### Linguagens
-
-----
 
 <div>
 
