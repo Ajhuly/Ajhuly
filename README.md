@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 <div>
 
-<a href="">
+<a href="www.linkedin.com/in/juliana-r-silvestre-esposti">
 
-    <img src="" align="center" heigth="50" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
 
 </a>
 
@@ -55,5 +55,4 @@ Here are some ideas to get you started:
 
 
 </div>
-
 
