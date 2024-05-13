@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Olá!
+#### Me chamo Juliana,
+#### Sou entusiasta em TI e venho me aprofundando cada vez mais em Git e GitHub dentre outras da área da tecnologia.
+
 
 <!--
 **Ajhuly/Ajhuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,7 +46,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" align="center" heigth="50" width="60">
           
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" align="center" heigth="50" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" align="center" heigth="50" width="60">
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" align="center" heigth="50" width="60">
